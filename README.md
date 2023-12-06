@@ -12,7 +12,8 @@ It's available at the url:
 ### Usability
 
 
-Indroduction
+###Indroduction
+
 The project consist of creation of a counter that allows the user to increase and drecrease value by 1, wich initially will be 0.
 The user can use "+" and "-" buttons.
 In addition to the basic functions, there is a Reset button that allow to reset the value of the counter to zero.
