@@ -1,0 +1,124 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+body {
+  background: linear-gradient(90deg, rgba(2,0,36,1) 26%, rgba(8,8,146,1) 79%);
+}
+
+
+.container{
+  margin-top: 20px;
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+
+#video-wrap{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+
+.immagine{
+  object-fit: cover;
+  width: 70%;
+  height: 85%;
+  border-radius: 10px;
+}
+
+
+.btnPlus{
+  width: 7%;
+  height: 80%;
+  position: absolute;
+  right: 2%;
+  background: radial-gradient(circle, rgba(2,43,252,1) 29%, rgba(252,247,70,1) 100%);
+  border-radius: 5px;
+  border-color: aliceblue;
+  border-radius: 10px;
+  font-size: 2em;
+}
+
+
+.btnLess{
+  width: 7%;
+  height: 80%;
+  position: absolute;
+  left: 2%;
+  background: radial-gradient(circle, rgba(2,43,252,1) 29%, rgba(252,247,70,1) 100%);
+  border-color: aliceblue;
+  border-radius: 10px;
+  font-size: 2em;
+
+}
+
+
+.counterDisplay{
+  background: radial-gradient(circle, rgba(2,43,252,1) 29%, rgba(252,247,70,1) 100%);
+  width: 50%;
+  margin: auto;
+  height: 50px;
+  position: absolute;  
+  bottom: 30px;
+  right: 25%;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 2em;
+}
+
+.btnReset{
+  position: absolute;
+  bottom: 30px;
+  right: 10px;
+  width: 100px;
+  background: radial-gradient(circle, rgba(2,43,252,1) 29%, rgba(252,247,70,1) 100%);
+  font-size: 1em;
+}
+
+
+
+/* for Tablet */
+@media only screen and (min-width: 480px) and (max-width: 768px) {
+  #video-wrap{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  
+  
+  #video{
+    object-fit:fill;
+    width: 70%;
+    height: 85%;
+  }
+}
+
+
+
+/* for Desktop */
+@media only screen and (min-width: 768px) {
+  #video-wrap{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  
+  
+  #video{
+    object-fit: fill;
+    width: 60%;
+    height: 85%;
+  }
+}
+
+
+
