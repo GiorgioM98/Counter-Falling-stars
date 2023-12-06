@@ -1,48 +1,48 @@
 # Falling-stars
 
-This project was created by Giorgio.
-It's very simple to use, idea is to watch the photo and count falling stars.
-It's available at the url: 
+
+Questo progetto e' stato creato da Giorgio.
+E' veramente semplice utilizzarlo, l'idea consiste nel guardare la foto e contare le stelle cadenti.
+Il progetto e' disponibile all'url: 
 
 
-## Table of Contents
-### Introduction
-### Structure
-### Technologies used
-### Usability
+## Tabella dei contenuti
+### Introduzione
+### Struttura
+### Tecnologie usate
+### Usabilita'
 
 
-## Introduction
+## Introduzione
 
-The project consist of creation of a counter that allows the user to increase and drecrease value by 1, wich initially will be 0.
-The user can use "+" and "-" buttons.
-In addition to the basic functions, there is a Reset button that allow to reset the value of the counter to zero.
-
-
-## Structure
+Il progetto consiste nella creazione di un contatore che permette all'utente di aumentare e diminuire il valore di 1, che inizialmente sarà 0.
+L'utente può utilizzare i pulsanti "+" e "-".
+Oltre alle funzioni di base, è presente un pulsante Reset che consente di azzerare il valore del contatore.
 
 
-The structure of the project is:
+## Struttura
 
-index.html: contains the backbone structure of the project, in which the style sheet (CSS) for the graphics of Falling-stars and the script for the functions are inserted.
+La struttura del progetto è:
 
-styles.css: the style sheet with which I created the style and graphics.
+index.html: contiene la struttura portante del progetto, nella quale sono inseriti il ​​foglio di stile (CSS) per la grafica di Falling-stars e lo script per le funzioni.
 
-script.js: script used to create the various HTML elements and the counter functions (increase/decrease, reset).
+stili.css: il foglio di stile con cui ho creato lo stile e la grafica.
+
+script.js: script utilizzato per creare i vari elementi HTML e le funzioni del contatore (incrementa/diminuisci, azzera).
 
 
-## Tecnology used
+## Tecnologie usate
 
+Ho utilizzato diverse tecnologie per creare il contatore delle Stelle Cadenti:
 
-I used several technologies to create the Falling-stars counter:
+Visual Studio Code, come editor per la scrittura del codice.
+Pinterest per ottenere l'immagine.
+HTML, per creare il contenitore per l'immagine.
+I CSS hanno svolto un ruolo cruciale nel fornire al progetto un aspetto estetico e nel garantire la reattività attraverso le Media Queries.
 
-Visual Studio Code, as editor for writing the code.
-Pinterest for obtaining the immage.
-HTML, to crate the container for the immage.
-CSS played a crucial role in providing the project with an aesthetic appearance and ensuring responsiveness through Media Queries.
+Infine, JavaScript, il linguaggio di programmazione scelto, è stato utilizzato per implementare la funzionalità del contatore e integrarla con alcuni elementi HTML.
 
-Finally, JavaScript, the programming language of choice, was used to implement the counter functionality and integrate it with some HTML elements."
+## Usabilita'
 
-## Usability
-Using the counter is very simple. The counter value is increased and decreased by 1 with a click on the +/- buttons. To reset the current value user must click on the reset button.
-This program was designed for recreational use. The user watch the photo and count the falling-stars, after it increase the value counter for each star.
+Usare il contatore è molto semplice. Il valore del contatore viene aumentato e diminuito di 1 con un clic sui pulsanti +/-. Per ripristinare il valore corrente l'utente deve fare clic sul pulsante di ripristino.
+Questo programma è stato progettato per uso ricreativo. L'utente guarda la foto e conta le stelle cadenti, dopodiché aumenta il contatore del valore per ciascuna stella.
