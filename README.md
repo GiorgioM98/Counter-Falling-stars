@@ -41,7 +41,7 @@ Pinterest for obtaining the immage.
 HTML, to crate the container for the immage.
 CSS played a crucial role in providing the project with an aesthetic appearance and ensuring responsiveness through Media Queries.
 
-Finally, JavaScript, the programming language of choice, was used to implement the counter functionality and integrate it with some HTML elements."
+Finally, JavaScript, the programming language of choice, was used to implement the counter functionality and integrate it with some HTML elements.
 
 ## Usability
 Using the counter is very simple. The counter value is increased and decreased by 1 with a click on the +/- buttons. To reset the current value user must click on the reset button.
