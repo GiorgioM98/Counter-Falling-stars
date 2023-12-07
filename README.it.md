@@ -1,7 +1,7 @@
 # Falling-stars
 
 
-Questo progetto e' stato creato da Giorgio.
+Questo progetto e' stato creato da Giorgio Marian.
 E' veramente semplice utilizzarlo, l'idea consiste nel guardare la foto e contare le stelle cadenti.
 Il progetto e' disponibile all'url: 
 
