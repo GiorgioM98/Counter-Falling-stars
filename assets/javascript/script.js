@@ -77,7 +77,8 @@ btnLess.addEventListener("click", function(){
 // evento listener contatore uguale a zero
 btnLess.addEventListener("click", function(){
     if(somma<0){
-        alert("Il contatore e' gia' a zero");
+        somma ++;
+        textCounterDisplay.nodeValue = somma;
     }
 });
 
