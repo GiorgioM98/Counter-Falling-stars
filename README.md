@@ -2,7 +2,7 @@
 
 This project was created by Giorgio Marian.
 It's very simple to use, idea is to watch the photo and count falling stars.
-It's available at the url: 
+It's available at the url: https://primosito-2023.firebaseapp.com/
 
 
 ## Table of Contents
