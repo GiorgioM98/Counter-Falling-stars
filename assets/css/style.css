@@ -77,9 +77,8 @@ body {
   position: absolute;
   bottom: 30px;
   right: 10px;
-  width: 100px;
+  width: 15%;
   background: radial-gradient(circle, rgba(2,43,252,1) 29%, rgba(252,247,70,1) 100%);
-  font-size: 1em;
 }
 
 
