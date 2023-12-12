@@ -38,7 +38,7 @@ body {
   width: 7%;
   height: 80%;
   position: absolute;
-  right: 2%;
+  right: 7%;
   background: radial-gradient(circle, rgba(2,43,252,1) 29%, rgba(252,247,70,1) 100%);
   border-radius: 5px;
   border-color: aliceblue;
@@ -51,7 +51,7 @@ body {
   width: 7%;
   height: 80%;
   position: absolute;
-  left: 2%;
+  left: 7%;
   background: radial-gradient(circle, rgba(2,43,252,1) 29%, rgba(252,247,70,1) 100%);
   border-color: aliceblue;
   border-radius: 10px;
