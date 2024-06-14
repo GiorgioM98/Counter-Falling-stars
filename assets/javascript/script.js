@@ -66,16 +66,3 @@ const counterDisplay=creaNuovoElemento("div","counterDisplay","Conta le stelle!"
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
